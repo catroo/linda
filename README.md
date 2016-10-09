@@ -71,13 +71,6 @@ Build and run:
 
 ## Deployment
 
-### Docker
-
-Use the automated build from [Docker Registry](https://registry.hub.docker.com/u/kpashka/linda).
-
-	$ docker pull kpashka/linda
-	$ docker run -e "LINDA_CONFIG=<url_of_your_configuration_file>" kpashka/linda
-
 ### Heroku
 
 [![Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kpashka/linda)
