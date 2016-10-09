@@ -1,6 +1,6 @@
 # Linda
 
-[![Build Status](https://travis-ci.org/kpashka/linda.svg?branch=master)](https://travis-ci.org/kpashka/linda) [![GoDoc](https://godoc.org/github.com/kpashka/linda?status.svg)](https://godoc.org/github.com/kpashka/linda)
+[![Build Status](https://travis-ci.org/kpashka/linda.svg?branch=master)](https://travis-ci.org/kpashka/linda) [![GoDoc](https://godoc.org/github.com/kpashka/linda?status.svg)](https://godoc.org/github.com/kpashka/linda) [![Go Report Card](https://goreportcard.com/badge/github.com/kpashka/linda)](https://goreportcard.com/report/github.com/kpashka/linda)
 
 Multi-platform, highly configurable conference bot.
 
