@@ -297,7 +297,7 @@ func (linda *Linda) getDescriptions() []string {
 	descriptions := []string{}
 	markdown := linda.adapter.Markdown()
 
-	for id, _ := range linda.commands {
+	for id := range linda.commands {
 		description := linda.getDescription(id, markdown)
 		if description != "" {
 			descriptions = append(descriptions, description)
