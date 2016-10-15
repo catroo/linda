@@ -16,6 +16,10 @@ Navigation:
 1. [Limitations](#limitations)
 1. [Installation](#installation)
 1. [Configuration](#configuration)
+<<<<<<< HEAD
+=======
+1. [Deployment](#deployment)
+>>>>>>> 99ad7dc37d6167948ef96404e342046f548924a4
 1. [Credits](#credits)
 
 ## Features
