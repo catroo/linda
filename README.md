@@ -16,9 +16,6 @@ Navigation:
 1. [Limitations](#limitations)
 1. [Installation](#installation)
 1. [Configuration](#configuration)
-1. [Deployment](#deployment)
-	1. [Docker](#docker)
-	1. [Heroku](#heroku)
 1. [Credits](#credits)
 
 ## Features
@@ -68,12 +65,6 @@ Build and run:
 ## Configuration
 
 * See [linda.example.toml](linda.example.toml) for configuration example.
-
-## Deployment
-
-### Heroku
-
-[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kpashka/linda)
 
 ## Credits
 
